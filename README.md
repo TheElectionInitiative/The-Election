@@ -10,7 +10,7 @@ The purpose of the Election is to elect 1.2 million individuals from around the 
 
 **How This Repository Will be Used**
 
-This repository will be used to store and share information, resources, and tools related to the Election Movement. This includes:
+This repository will be used to store and share information, resources, and tools related to the Election Initiative. This includes:
 - Readme.Txt
 - The Election Rules
 - Action Plan for the Election
