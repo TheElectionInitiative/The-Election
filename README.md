@@ -1,11 +1,11 @@
 
 
-**The Election Initiative**
+**The Election Initiative** 
 
 Purpose: This is to introduce a new and exciting community initiative aimed at creating a better world for all. This initiative is known as “the Election".
-The purpose of the Election is to elect 1.2 million individuals from around the world to serve as "Architects" who will be responsible for creating solutions to provide sustainable solutions for the betterment of the world and humanity as a whole. Nominations and voting can only be done through a secured, transparent, and decentralized online Voting System for the Election (“the Voting System”), and each internet user can nominate or vote for a maximum of 2,000 individuals. Eligibility is open to anyone who can prove their existence. Our first task is to develop the Voting System. 
+The purpose of the Election is to elect 1.2 million individuals from around the world to serve as "Architects" who will be responsible for creating solutions to provide sustainable solutions for the betterment of the world and humanity as a whole. Nominations and voting can only be done through a secured, transparent, and decentralized online Voting System for the Election (“the Voting System”), and each internet user can nominate or vote for a maximum of 2,000 individuals. Eligibility is open to anyone who can prove their existence. 
 
-
+Our first task is to recruit contributors to develop the Voting System. 
 
 
 **How This Repository Will be Used**
