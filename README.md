@@ -12,10 +12,9 @@ Our first task is to recruit contributors to develop the Voting System.
 
 This repository will be used to store and share information, resources, and tools related to the Election Initiative. This includes:
 - Readme.Txt
-- The Election Rules
-- Action Plan for the Election
-- Project Team and Guilds
-- Job scopes of Guilds and Guild members
+- The Rules of the Election
+- The Action Plan
+- The Guild
 - News and updates about the Voting System, Election and related issues
 
 We invite you to contribute to this repository by submitting other useful materials, issues, Pull Requests, or by sharing resources and information. Together, we can help ensure that every eligible citizen has the opportunity to participate in the democratic process and that their votes are accurately counted.
